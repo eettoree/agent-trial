@@ -1,0 +1,4 @@
+Nome Azienda: Pizzeria da Mario
+Prezzi: Margherita 5€, Diavola 7€.
+Note: I prezzi sono indicativi.
+Orari: 19:00 - 23:00.
