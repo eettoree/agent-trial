@@ -1,4 +1,16 @@
-Nome Azienda: Pizzeria da Mario
-Prezzi: Margherita 5€, Diavola 7€.
-Note: I prezzi sono indicativi.
-Orari: 19:00 - 23:00.
+AZIENDA: Solar Tech Solutions
+SETTORE: Installazione Pannelli Fotovoltaici Professionali
+REFERENTE: Ing. Roberto Bianchi
+
+SERVIZI OFFERTI:
+1. Kit Base (3kW): Include 6 pannelli + inverter. Prezzo indicativo: 4.500€.
+2. Kit Premium (6kW): Include 12 pannelli + batteria accumulo. Prezzo indicativo: 8.900€.
+
+DETTAGLI IMPORTANTI:
+- Operiamo solo nel Lazio e in Toscana.
+- Tempi di installazione: circa 30 giorni dal sopralluogo.
+- NOTA LEGALE: I prezzi indicati sono puramente stime basate su listino standard. Il prezzo finale viene determinato solo dopo il sopralluogo tecnico obbligatorio.
+
+COSA NON FACCIAMO:
+- Non installiamo impianti su tetti in amianto.
+- Non facciamo manutenzione su impianti non installati da noi.
